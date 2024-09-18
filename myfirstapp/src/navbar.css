@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "MyFontFace1";
+    src: url('font/Roboto/Roboto-Thin-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.nav_items {
+    font-size: 15px;
+    font-family: "MyFontFace1";
+    margin-left: 23px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ababab;
+}
+
